@@ -114,6 +114,7 @@ Thanks to our main contributors
 * [Wolfram Alpha](https://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
 algorithms, knowledgebase and AI technology.
 * [Yahoo! Search](https://www.yahoo.com) -  The search engine that helps you find exactly what you're looking for.
+* [Yandex](https://yandex.com/) - Search engine from Russia, famous for reverse image search.
 * [YOU](https://you.com) - AI search engine.
 
 ## [↑](#-google-dorks-tools) Google Dorks Tools
@@ -495,6 +496,7 @@ algorithms, knowledgebase and AI technology.
 * [instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Tool for real-time tracking of Instagram users' activities and profile changes with support for email alerts, CSV logging, showing media in the terminal, anonymous story downloads and more
 * [InstagramPrivSniffer](https://github.com/obitouka/InstagramPrivSniffer) - Views Instagram PRIVATE ACCOUNT'S media without login 😱.
 * [insto](https://github.com/subzeroid/insto) - Interactive OSINT CLI / REPL with 35+ slash-commands: profile + media + followers + dossier + geo-fingerprint (`/where`), shared-followers intersection (`/intersect`), superfan ranking (`/fans`), location search (`/place`), URL→metadata resolution (`/postinfo`), posting-cadence histogram (`/timeline`), Maltego CSV export. Token-based (HikerAPI, no IG account needed → no ban risk) with optional logged-in `aiograpi` backend.
+* [instagram_load_bot](https://t.me/instagram_load_bot) - Download posts, stories and highlights from instagram.
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
 * [Osintgraph](https://github.com/XD-MHLOO/Osintgraph) - Tool that maps your target’s Instagram data and relationships in Neo4j for social network analysis. 
 * [Toutatis](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
@@ -520,8 +522,10 @@ algorithms, knowledgebase and AI technology.
 * [RedditMetis](https://redditmetis.com/) - RedditMetis is a Reddit user analysis tool to see the summary and statistics for a Reddit account, including top posts and user activity etc.
 * [Subreddits](http://subreddits.org) - Discover new subreddits.
 * [Reddit Comment Search](https://redditcommentsearch.com/) - Analyze a reddit users by comment history.
+* [Reddit Save Bot](https://t.me/redditsavebot) - telegram Bot to download Reddit Posts and images as normal post and also as File(high quality)
 * [Universal Scammer List](https://universalscammerlist.com/) - This acts as the website-portion for the subreddit /r/universalscammerlist. That subreddit, in conjuction with this website and a reddit bot, manages a list of malicious reddit accounts and minimizes the damage they can deal. This list is referred to as the "USL" for short.
 * [Reddit Comment Lookup](https://randomtools.io/reddit-comment-search/) - Search for reddit comments by reddit username.
+* [Roastdit](https://roastdit.kadoa.com/) - Roasts, trends, and predictions of someone's Reddit profile, helpful in discovering content for users who have "hidden all".
 
 
 ### [↑](#-table-of-contents) VKontakte
@@ -537,9 +541,9 @@ algorithms, knowledgebase and AI technology.
 
 ### [↑](#-table-of-contents) WhatsApp
 
-*[2Chat](https://2chat.co/tools/whatsapp-checker) - Check if a number is on WhatsApp.
-*[Groupio](https://en.groupio.app/) - Find and search WhatsApp groups.
-*[Whatsapp CheckLeaked](https://whatsapp.checkleaked.cc/) - WhatsApp Number Search & Profile Photo Checker. API Option Available.
+* [2Chat](https://2chat.co/tools/whatsapp-checker) - Check if a number is on WhatsApp.        
+* [Groupio](https://en.groupio.app/) - Find and search WhatsApp groups.     
+* [Whatsapp CheckLeaked](https://whatsapp.checkleaked.cc/) - WhatsApp Number Search & Profile Photo Checker. API Option Available.          
 
 ### [↑](#-table-of-contents) Tumblr
 
@@ -1051,7 +1055,6 @@ algorithms, knowledgebase and AI technology.
 * [Google Image](https://images.google.com)
 * [Google Lens](https://lens.google.com/)
 * [Image Identification Project](https://www.imageidentify.com)
-* [Image Raider](https://www.imageraider.com) - is our reverse image search tool for completing individual searches. When you upload an image to this page, we'll scour the internet to find its source and all of the other pages where it has been posted.
 * [KartaVision](https://kartavision.com/) - search engine for KartaView imagery. It supports natural-language search and search by image
 * [Lenso.ai](https://lenso.ai) - Reverse image search tool with facial recognition, created for finding people, similar images, copies of photos, identical places and more.
 * [Lycos Image Search](https://search.lycos.com)
@@ -1715,6 +1718,9 @@ algorithms, knowledgebase and AI technology.
 * [Amazing mind reader reveals his ‘gift’](https://www.youtube.com/watch?v=F7pYHN9iC9I)
 * [Bendobrown](https://www.youtube.com/c/Bendobrown)
 * [Data to Go](https://www.youtube.com/watch?v=_YRs28yBYuI)
+* [OSINCON Summer 2025 (Playlist)](https://youtube.com/playlist?list=PLmSAK_-aK0kwDql9hs2hBgRJ0UbQRiZ1r&si=nBH2tmXBE2hW29G1)
+* [[OSINCON Winter 2025 (Playlist)](https://youtube.com/playlist?list=PLmSAK_-aK0ky5OnLEbQEQyS-B34l7Z0Lg&si=eAUNAl3cEfutaI7Y)
+* [[OSINCON Summer 2026 (Playlist)](https://youtube.com/playlist?list=PLmSAK_-aK0kxGb-weNR1Hb66omeO_n-3k&si=DOz4y9Bp0ZPeCqJz)
 * [SANS OSINT Summit 2021 (Playlist)](https://www.youtube.com/playlist?list=PLs4eo9Tja8bj3jJvv42LxOkhc2_ylpS9y)
 * [See how easily freaks can take over your life](https://www.youtube.com/watch?v=Rn4Rupla11M)
 
